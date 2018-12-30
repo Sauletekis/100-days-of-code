@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 30, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed Intro to Basic HTML, Basic CSS in freecodecamp Responsive Web Design Certification.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This is much more fun than I thought it would be. It helped me to understand some parts of HTML and CSS I've messed around with before to fix sites. Now I understand why what I did had a result, and understand things I could have done better.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1079402536870785024)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

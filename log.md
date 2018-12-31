@@ -8,15 +8,13 @@
 
 **Link to work:** [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1079402536870785024)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 31, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started Applied Visual Design in freecodecamp Responsive Web Design Certification
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: OMFG I just learned how to make literal rainbows with repeating-linear-gradient. I will never be the same. And then I added a big COCK to it. Winning.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1079851930501947392)
 
 ### Day 1: June 27, Monday
 

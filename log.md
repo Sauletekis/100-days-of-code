@@ -14,9 +14,8 @@
 
 **Thoughts**: OMFG I just learned how to make literal rainbows with repeating-linear-gradient. I will never be the same. And then I added a big COCK to it. Winning.
 
-**Link to work**: 
-1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1079851930501947392)
-2. [My Code] (https://github.com/Sauletekis/at-the-beginning/blob/master/a-bouncing-dick)
+**Link to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1079851930501947392)
+
 
 ### Day 3: January 1, 2019
 
@@ -24,7 +23,9 @@
 
 **Thoughts**: I see a trend emerging. It was challenging to make this animation but useful for getting a better handle on how it works.
 
-**Link to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1080204087403184129)
+**Links to work**: 
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1080204087403184129)
+2. [My Code] (https://github.com/Sauletekis/at-the-beginning/blob/master/a-bouncing-dick)
 
 ### Day 1: June 27, Monday
 

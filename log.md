@@ -29,7 +29,7 @@
 
 ### Day 4: January 2, 2019
 
-**Today's Progress**: Completed Applied Accessibility in freecodecamp Responsive Web Design Certification. I didn't make a new dick today, but I learned that I can improve accessibility to yesterday's dick with <img src="css-animation-1" alt="a bouncing rainbow penis">
+**Today's Progress**: Completed Applied Accessibility in freecodecamp Responsive Web Design Certification. I didn't make a new dick today, but I learned that I can improve accessibility to yesterday's dick with --<img src="css-animation-1" alt="a bouncing rainbow penis">
 
 **Thoughts**: All jokes aside, I'd never thought about this much before - how screen readers work, how differently abled people use the internet. I'd like to take a page or two from a website I work on and see if I can incorporate some of what I have learned today.
 

@@ -35,6 +35,14 @@
 
 **Links to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1080577625570115584)
 
+### Day 5: January 3, 2019
+
+**Today's Progress**: Completed Responsive Web Design Principles in freecodecamp Responsive Web Design Certification. Today has been an exhausting and very long day. My progress was progressing - it was not a zero day, and I maintained this commitment. 
+
+**Thoughts**: You know, I am so damn tired, all I want to do is sleep, and I still did this for 15 minutes at 11:30pm at night after working straight through from 9am. Today is an achievement of motivation, tomorrow can be an achievement for coding.
+
+**Links to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1080944706387881984)
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

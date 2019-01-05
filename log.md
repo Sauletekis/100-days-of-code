@@ -43,6 +43,14 @@
 
 **Links to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1080944706387881984)
 
+### Day 6: January 4, 2019
+
+**Today's Progress**: Completed CSS Flexbox in freecodecamp Responsive Web Design Certification. Another very long working day. It's 2am where I am. Rules say so long as done before going to bed, still counts!
+
+**Thoughts**: I am jonsing to just spend a couple of hours immersed. Looking forward to the weekend!
+
+**Links to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1081341457817108480)
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

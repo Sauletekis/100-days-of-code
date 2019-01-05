@@ -16,7 +16,6 @@
 
 **Link to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1079851930501947392)
 
-
 ### Day 3: January 1, 2019
 
 **Today's Progress**: Completed Applied Visual Design in freecodecamp Responsive Web Design Certification. And then spent 90 minutes figuring out how to code a bouncing rainbow cock.
@@ -51,12 +50,12 @@
 
 **Links to work**: [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1081341457817108480)
 
-### Day 1: June 27, Monday
+### Day 7: January 5, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed the Tribute Page Project in freecodecamp Responsive Web Design Certification. Spent around 3.5 hours on this.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: This was really powerful personally, and I am really pleased with all that I was able to do with this project.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Links to work**: [Marla Ruzicka Tribute Page](https://codepen.io/sauletekis/full/VqXqoR)
+
+

@@ -56,6 +56,18 @@
 
 **Thoughts**: This was really powerful personally, and I am really pleased with all that I was able to do with this project.
 
-**Links to work**: [Marla Ruzicka Tribute Page](https://codepen.io/sauletekis/full/VqXqoR)
+**Links to work**: 
+1. [Marla Ruzicka Tribute Page](https://codepen.io/sauletekis/full/VqXqoR)
+2. [Accountability Tweet] (https://twitter.com/SexCoachSarah/status/1081698534573985793)
+
+### Day 8: January 6, 2019
+
+**Today's Progress**: Completed CSS Grid exercises in freecodecamp Responsive Web Design Certification, then started in on the Survey Form project.
+
+**Thoughts**: I still have some big feeling of 'Oh Shit' when I am looking at the 'blank page' and trying to think with two brains about what I want to say and what I want it to look like. Starting is painful and then it gets fun :) That said, my form looks hella ugly right now, I need to do more with it!
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1082048722136109057)
+2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)
 
 

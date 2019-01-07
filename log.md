@@ -70,4 +70,12 @@
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1082048722136109057)
 2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)
 
+### Day 9: January 7, 2019
 
+**Today's Progress**: Worked on the Survey Form project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Radio buttons are causing me to pull my hair out in frustration. I worked for over an hour, and things still look much the same. This is great - it is showing me where I still don't really have a grasp on things. 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1082287503808348160)
+2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)

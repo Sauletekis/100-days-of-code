@@ -79,3 +79,13 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1082287503808348160)
 2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)
+
+### Day 10: January 8, 2019
+
+**Today's Progress**: Worked on the Survey Form project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Another hour spent on radio buttons. No matter what I do, I can't seem to get label text to align left. To soothe my frustration I picked a better font and smashed in checkboxes like a blizzard so it feels like I accomplished **something**. This is challenging me. 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1082742386357424128)
+2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)

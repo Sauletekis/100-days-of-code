@@ -99,3 +99,14 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1083127217423568896)
 2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)
+
+### Day 12: January 10, 2019
+
+**Today's Progress**: Completed the Survey Form project, started the Landing Page project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Woke up with the idea how to fix the survey form, it worked! Started landing page and learned how to use @font-face in CSS, already loving this!
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1083313050843836416)
+2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)
+3. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)

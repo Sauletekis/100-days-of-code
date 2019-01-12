@@ -110,3 +110,13 @@
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1083313050843836416)
 2. [Alumni Survey Form](https://codepen.io/sauletekis/full/rovjyg)
 3. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)
+
+### Day 13: January 11, 2019
+
+**Today's Progress**: Continued the Landing Page project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Well, this has been a rabbit hole, hasn't it? Many ideas, going to build this as if it is real. Took so many actions on the basis of this project (getting my own promo video made). Want the form to actually capture an email address. 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1083888821106814976)
+2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)

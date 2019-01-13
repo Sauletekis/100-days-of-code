@@ -121,7 +121,7 @@
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1083888821106814976)
 2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)
 
-### Day 13: January 11, 2019
+### Day 14: January 12, 2019
 
 **Today's Progress**: Continued the Landing Page project in freecodecamp Responsive Web Design Certification.
 
@@ -129,4 +129,14 @@
 
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1084263137774366720)
+2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)
+
+### Day 15: January 13, 2019
+
+**Today's Progress**: Continued the Landing Page project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Basic functionality is all there, and all tests are passing. Next, I want to finalize styling and content.  
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1084582215835631617)
 2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)

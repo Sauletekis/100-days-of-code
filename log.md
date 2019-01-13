@@ -120,3 +120,13 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1083888821106814976)
 2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)
+
+### Day 13: January 11, 2019
+
+**Today's Progress**: Continued the Landing Page project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Found some clever solutions. Learned about Font Awesome. Fixed nav bar issue. Sometimes, you spend an hour trying to fix something, and then there is an obvious solution that takes 2 seconds. Sigh. Also imported font isn't working.  
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1084263137774366720)
+2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)

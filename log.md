@@ -150,3 +150,13 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1084582215835631617)
 2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)
+
+### Day 17: January 15, 2019
+
+**Today's Progress**: Continued the Landing Page project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Styling is hot. I love this. HOWEVER - navbar links to sections wind up with the fixed header covering the top part of the section :( Any ideas?  
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1085318161778520065)
+2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)

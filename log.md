@@ -160,3 +160,13 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1085318161778520065)
 2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)
+
+### Day 18: January 16, 2019
+
+**Today's Progress**: Completed the Landing Page project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: FIXED NAV BAR LINKS! Tweaked styling & copy! This is actually functional, and done (apart from the explainer video, which I'll add when it is done). This project was AWESOME! This is real and this is what I do! 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1085669421971107842)
+2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)

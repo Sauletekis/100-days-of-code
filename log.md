@@ -170,3 +170,14 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1085669421971107842)
 2. [Blazing Maple Landing Page](https://codepen.io/sauletekis/full/ZVMjPj)
+
+### Day 19: January 17, 2019
+
+**Today's Progress**: Started the Technical Documentation project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: And... quickly had no clue at all what to make so got frustrated and made more dicks, refining my earlier code. What the hell should I write about for technical documentation? 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1086011472780632064)
+2. [Dicks](https://codepen.io/sauletekis/full/rogPdp)
+3. [Technical Documentation Stub](https://codepen.io/sauletekis/full/aPrMZM)

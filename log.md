@@ -181,3 +181,13 @@
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1086011472780632064)
 2. [Dicks](https://codepen.io/sauletekis/full/rogPdp)
 3. [Technical Documentation Stub](https://codepen.io/sauletekis/full/aPrMZM)
+
+### Day 20: January 18, 2019
+
+**Today's Progress**: Properly started the Technical Documentation project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: My idea came to me :) Working on outlining the document first, then going to style it. 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1086413109705797632)
+3. [Safer Sex Talk](https://codepen.io/sauletekis/full/aPrMZM)

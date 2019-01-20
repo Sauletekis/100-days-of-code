@@ -190,4 +190,14 @@
 
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1086413109705797632)
-3. [Safer Sex Talk](https://codepen.io/sauletekis/full/aPrMZM)
+3. [Safer Sex Talk Guide](https://codepen.io/sauletekis/full/aPrMZM)
+
+### Day 21: January 19, 2019
+
+**Today's Progress**: Finished the Technical Documentation project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Boom! This is done, and useful! Also watched AppBrewery videos, improved my understanding. 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1086785258886967296)
+3. [Safer Sex Talk Guide](https://codepen.io/sauletekis/full/aPrMZM)

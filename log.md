@@ -190,7 +190,7 @@
 
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1086413109705797632)
-3. [Safer Sex Talk Guide](https://codepen.io/sauletekis/full/aPrMZM)
+2. [Safer Sex Talk Guide](https://codepen.io/sauletekis/full/aPrMZM)
 
 ### Day 21: January 19, 2019
 
@@ -200,4 +200,23 @@
 
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1086785258886967296)
-3. [Safer Sex Talk Guide](https://codepen.io/sauletekis/full/aPrMZM)
+2. [Safer Sex Talk Guide](https://codepen.io/sauletekis/full/aPrMZM)
+
+### Day 22: January 20, 2019
+
+**Today's Progress**: Started the Personal Portfolio project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Tired. Coded for all of 20 minutes and like 5 lines at the hostel because my brain was like... nah. Didn't tweet about it. Tired and so not in the mood, but at least did something. 
+
+**Links to work**:
+1. [Personal Portfolio](https://codepen.io/sauletekis/full/REXXdL)
+
+### Day 23: January 21, 2019
+
+**Today's Progress**: Continued the Personal Portfolio project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Ugh. Slow, slow progress, but I got the hour in today. So... yay, I guess? 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1087480540033400832)
+2. [Personal Portfolio](https://codepen.io/sauletekis/full/REXXdL)

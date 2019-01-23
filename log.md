@@ -220,3 +220,12 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1087480540033400832)
 2. [Personal Portfolio](https://codepen.io/sauletekis/full/REXXdL)
+
+### Day 24: January 22, 2019
+
+**Today's Progress**: Installed Atom and started using that as a dev envionment, worked on fixing issues with responsive display in Landing Page project for @freecodecamp.
+
+**Thoughts**: Grrrr some responsive features working not as expected. I am on the case!
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1087872499977801729)

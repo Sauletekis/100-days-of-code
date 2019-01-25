@@ -248,3 +248,12 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1088583303609925633)
 
+### Day 27: January 25, 2019
+
+**Today's Progress**: Continued Basic JavaScript exercises in freecodecamp JavaScript Algorithms and Data Structures.
+
+**Thoughts**: And the cold that just won't quit continues. I completed approximately as many challenges as I produced litres of snot today. That said, starting to feel better. Here's to hoping tomorrow I will be healthy.
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1088945242458476545)
+

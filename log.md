@@ -257,3 +257,12 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1088945242458476545)
 
+### Day 28: January 26, 2019
+
+**Today's Progress**: Continued Basic JavaScript exercises in freecodecamp JavaScript Algorithms and Data Structures.
+
+**Thoughts**: Finally feeling better :D Enjoyed playing with logic today, and then modified one of the challenges to my own ends (numbers based on research data).
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1089309394293219329)
+

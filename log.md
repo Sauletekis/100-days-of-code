@@ -275,3 +275,20 @@
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1089640485298278402)
 
+### Day 30 & 31: January 28 & 29, 2019
+
+**Today's Progress**: Continued Basic JavaScript exercises in freecodecamp JavaScript Algorithms and Data Structures.
+
+**Thoughts**: I did about 15 min each on these two days - I am tired, still recovering, and my boyfriend is sick now. 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1090730544592285700)
+
+### Day 32: January 30, 2019
+
+**Today's Progress**: Continued Basic JavaScript exercises in freecodecamp JavaScript Algorithms and Data Structures.
+
+**Thoughts**: Nearly done. The Record Collection challenge really bent my brain. Then... loops! Cool! 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1090730544592285700)

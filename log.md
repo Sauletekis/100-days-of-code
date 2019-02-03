@@ -292,3 +292,13 @@
 
 **Links to work**:
 1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1090730544592285700)
+
+### Day 33: February 3, 2019
+
+**Today's Progress**: Continued the Personal Portfolio project in freecodecamp Responsive Web Design Certification.
+
+**Thoughts**: Took 3 full days out to finish being sick and look after sick boyfriend. Today FINALLY back on it properly. Getting back up to speed, it feels good :) 
+
+**Links to work**:
+1. [Accountability Tweet](https://twitter.com/SexCoachSarah/status/1092172040591818753)
+2. [Personal Portfolio](https://codepen.io/sauletekis/full/REXXdL)
